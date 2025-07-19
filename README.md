@@ -1,4 +1,6 @@
-## Hi there 👋
+### Hello there 👋
+
+#### A Back-End Developer currently working on Java Spring
 
 <!--
 **hyunu-dev/hyunu-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
